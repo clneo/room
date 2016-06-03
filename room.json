@@ -13,7 +13,7 @@
     "ccc": {
         "admin":                null,
         "ambassador":           null,
-        "host":                 "#911e42",
+        "host":                 "#ff0000",
         "cohost":               "#911e42",
         "manager":              "#FF6600",
         "bouncer":              "#009900",
@@ -23,7 +23,7 @@
         "user":                 null
     },
     "images": {
-        "background":           "http://i.imgur.com/muTwD1k.png",
+        "background":           "https://mir-s3-cdn-cf.behance.net/project_modules/disp/c201b229084581.55e0fb84ea95d.jpg",
         "playback":             "https://dazzuh.ovh/plug/nb3DJvideo.png",
         "admin":                null,
         "ambassador":           null,
