@@ -29,13 +29,14 @@
         "ambassador":           null,
         "host":                 "http://i.imgur.com/oiDuQ7G.png",
         "cohost":               null,
-        "manager":              "https://cdn.radiant.dj/rcs/emotes/img/plugdj/badges/bdg-admin.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/emotes/img/plugdj/other/bluetick.png",
+        "manager":              "http://i.imgur.com/V7FDBz7.png",
+        "bouncer":              null,
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": [],
     "emotes": {
         "miku": "http://i.imgur.com/tlW1ih6.gif",
+        "miku2": "http://i.imgur.com/tlW1ih6.gif"
     }
 }
