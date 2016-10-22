@@ -1,7 +1,7 @@
 {
     "room":                     "♫ Coop-Land.ru ♫",
     "author":                   "[CL] NEO ◄╝",
-    "css":                      "https://raw.githubusercontent.com/clneo/room/master/room1.css",
+    "css":                      "https://www.dropbox.com/s/dw0by78km4pyvcy/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
